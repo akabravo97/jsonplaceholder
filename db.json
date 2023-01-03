@@ -1,0 +1,883 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "attributes": {
+                "Asset_Name": "InCred Jan'22 - Series 1 (Dec)",
+                "updatedAt": "2023-01-02T12:12:38.603Z",
+                "Banner": "<p>Rating has recently been updated to CRISIL A+ (Stable)</p>",
+                "Repayment_Schedule": [
+                    {
+                        "Date": "28/12/2022",
+                        "Interest Repaid": 100,
+                        "Principal Repaid": 2000,
+                        "Transaction Type": "Principal & Interest",
+                        "Principal Considered": 10000
+                    },
+                    {
+                        "Date": "29/12/2022",
+                        "Interest Repaid": 100,
+                        "Principal Repaid": 0,
+                        "Transaction Type": "Interest",
+                        "Principal Considered": 10000
+                    },
+                    {
+                        "Date": "30/12/2022",
+                        "Interest Repaid": 80,
+                        "Principal Repaid": 2000,
+                        "Transaction Type": "Principal & Interest",
+                        "Principal Considered": 8000
+                    },
+                    {
+                        "Date": "31/12/2022",
+                        "Interest Repaid": 80,
+                        "Principal Repaid": 0,
+                        "Transaction Type": "Interest",
+                        "Principal Considered": 8000
+                    },
+                    {
+                        "Date": "01/01/2023",
+                        "Interest Repaid": 60,
+                        "Principal Repaid": 2000,
+                        "Transaction Type": "Principal & Interest",
+                        "Principal Considered": 6000
+                    },
+                    {
+                        "Date": "02/01/2023",
+                        "Interest Repaid": 60,
+                        "Principal Repaid": 0,
+                        "Transaction Type": "Interest",
+                        "Principal Considered": 6000
+                    },
+                    {
+                        "Date": "03/01/2023",
+                        "Interest Repaid": 40,
+                        "Principal Repaid": 2000,
+                        "Transaction Type": "Principal & Interest",
+                        "Principal Considered": 4000
+                    },
+                    {
+                        "Date": "04/01/2023",
+                        "Interest Repaid": 40,
+                        "Principal Repaid": 0,
+                        "Transaction Type": "Interest",
+                        "Principal Considered": 4000
+                    },
+                    {
+                        "Date": "05/01/2023",
+                        "Interest Repaid": 20,
+                        "Principal Repaid": 2000,
+                        "Transaction Type": "Principal & Interest",
+                        "Principal Considered": 2000
+                    },
+                    {
+                        "Date": "06/01/2023",
+                        "Interest Repaid": 20,
+                        "Principal Repaid": 0,
+                        "Transaction Type": "Interest",
+                        "Principal Considered": 2000
+                    }
+                ],
+                "Wint_Approval": "NBFC verified by Wint",
+                "Product_ID": 10005,
+                "Min_Units": 10,
+                "Max_Units_Transaction": 180,
+                "Max_Units_User": 1000,
+                "Early_access": "2023-01-04T04:30:00.000Z",
+                "Live_for_all": "2023-01-05T04:30:00.000Z",
+                "json": null,
+                "Asset_Tag": [
+                    {
+                        "id": 3,
+                        "Tag_Name": "Listed",
+                        "i_Button_Modal_Question": "What are listed assets?",
+                        "i_Button_Modal_Answer": "<p>Listed assets are those assets that are listed. abcdefghijkl</p>",
+                        "Visible": true
+                    },
+                    {
+                        "id": 4,
+                        "Tag_Name": "Senior Secured Bond",
+                        "i_Button_Modal_Question": "What is a Sr. Secured bond?",
+                        "i_Button_Modal_Answer": "<p>A senior secured bond is always backed by some kind of collateral like a pool of personal loans, gold loans, vehicle loans, property loans or microfinance loans.</p><p>If the NBFC which issued senior secured bonds defaults on the payment, money is tried to be recovered from the collateral.</p>",
+                        "Visible": true
+                    }
+                ],
+                "Coverpool": [],
+                "Wint_Views": [
+                    {
+                        "id": 4,
+                        "Name": "What do we like about this NBFC?",
+                        "Dropdown": false,
+                        "Main_icon": {
+                            "data": null
+                        },
+                        "Text_icon": {
+                            "data": {
+                                "id": 85,
+                                "attributes": {
+                                    "url": "https://d3sqxton14esnq.cloudfront.net/images/image_ff25795cb4.png",
+                                    "updatedAt": "2022-12-20T08:21:50.532Z"
+                                }
+                            }
+                        },
+                        "Name_Text": [
+                            {
+                                "id": 18,
+                                "Heading": "Excellent profitability.",
+                                "Answer": "<p>Entity has a consistent year on year 30% PAT (profit after tax).</p>"
+                            },
+                            {
+                                "id": 19,
+                                "Heading": "More equity than debt.",
+                                "Answer": "<p>NBFC has equity of 382 Cr. to cover losses in case of loan defaults.</p>"
+                            },
+                            {
+                                "id": 21,
+                                "Heading": "Less than 1% defaults.",
+                                "Answer": "<p>With great loan disbursments, the GNPA of Capsave stands at only 0.94%.</p>"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "Name": "Criteria checks by Wint Team",
+                        "Dropdown": true,
+                        "Main_icon": {
+                            "data": null
+                        },
+                        "Text_icon": {
+                            "data": {
+                                "id": 86,
+                                "attributes": {
+                                    "url": "https://d3sqxton14esnq.cloudfront.net/images/image_1_efc0ace879.png",
+                                    "updatedAt": "2022-12-20T08:23:17.488Z"
+                                }
+                            }
+                        },
+                        "Name_Text": [
+                            {
+                                "id": 20,
+                                "Heading": "Leverage lesser than 4.",
+                                "Answer": "<p>InCred’s leverage currently is 1.2 <strong>(top 1% in the country)</strong>.</p><p>Why does this check matter?</p><p>Leverage helps us understand if superman can save the NBFC with kryptonite.</p>"
+                            },
+                            {
+                                "id": 22,
+                                "Heading": "Min. cred rating of BBB-.",
+                                "Answer": "<p>InCred’s leverage currently is 1.2 (top 1% in the country).</p>"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "Name": "What are the risks of this bond?",
+                        "Dropdown": false,
+                        "Main_icon": {
+                            "data": null
+                        },
+                        "Text_icon": {
+                            "data": {
+                                "id": 87,
+                                "attributes": {
+                                    "url": "https://d3sqxton14esnq.cloudfront.net/images/image_2_c0a790d2bc.png",
+                                    "updatedAt": "2022-12-20T08:26:26.292Z"
+                                }
+                            }
+                        },
+                        "Name_Text": [
+                            {
+                                "id": 23,
+                                "Heading": "Founded in 2016 only.",
+                                "Answer": "<p>Entity has a consistent year on year 30% PAT (profit after tax).</p>"
+                            },
+                            {
+                                "id": 24,
+                                "Heading": "Loans to unrated entities.",
+                                "Answer": "<p>NBFC has equity of 382 Cr. to cover losses in case of loan defaults.</p>"
+                            }
+                        ]
+                    }
+                ],
+                "More_Details": [
+                    {
+                        "id": 1,
+                        "Heading": "Trustee Details",
+                        "Name_Details": [
+                            {
+                                "id": 32,
+                                "Heading": "Trustee Name",
+                                "Answer": "<p>Catalyst Trusteeship Limited</p><p><a href=\"http://www.webtest.wintwealth.com\">Read more</a></p>"
+                            },
+                            {
+                                "id": 33,
+                                "Heading": "Brief Profile",
+                                "Answer": "<p>It is a great trustee with great track record and nice performance. I personally like the trustee and everyone likes it too. So there's nothing to worry about this trustee test test test.</p>"
+                            },
+                            {
+                                "id": 34,
+                                "Heading": "Managing AUM",
+                                "Answer": "<p>In excess of Rs. 850000 crores</p>"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "Heading": "Risks",
+                        "Name_Details": [
+                            {
+                                "id": 35,
+                                "Heading": "Credit Risk",
+                                "Answer": "<p style=\"text-align:justify;\">A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables.In case of a bankruptcy event, bond holders will depend on this security pool to get their investment back in the liquidation proceedings.</p>"
+                            },
+                            {
+                                "id": 36,
+                                "Heading": "Liquidity Risk",
+                                "Answer": "<p>A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables.In case of a bankruptcy event, bond holders will depend on this security pool to get their investment back in the liquidation proceedings.</p>"
+                            },
+                            {
+                                "id": 37,
+                                "Heading": "Fraud Risk",
+                                "Answer": "<p>A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables.In case of a bankruptcy event, bond holders will depend on this security pool to get their investment back in the liquidation proceedings.</p>"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "Heading": "Taxation",
+                        "Name_Details": [
+                            {
+                                "id": 38,
+                                "Heading": "How will the taxation work?",
+                                "Answer": "<p>A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables.In case of a bankruptcy event, bond holders will depend on this security pool to get their investment back in the liquidation proceedings.</p>"
+                            },
+                            {
+                                "id": 39,
+                                "Heading": "What is the taxation for this bond",
+                                "Answer": "<p>A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables.In case of a bankruptcy event, bond holders will depend on this security pool to get their investment back in the liquidation proceedings.</p>"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "Heading": "Documents",
+                        "Name_Details": [
+                            {
+                                "id": 40,
+                                "Heading": null,
+                                "Answer": null
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "Heading": "FAQs",
+                        "Name_Details": [
+                            {
+                                "id": 42,
+                                "Heading": "What is a senior secured bond?",
+                                "Answer": "<p>A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables.In case of a bankruptcy event, bond holders will depend on this security pool to get their investment back in the liquidation proceedings.</p>"
+                            },
+                            {
+                                "id": 43,
+                                "Heading": "What are Covered Bonds",
+                                "Answer": "<p>A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables.In case of a bankruptcy event, bond holders will depend on this security pool to get their investment back in the liquidation proceedings.</p>"
+                            },
+                            {
+                                "id": 44,
+                                "Heading": "What are unlisted bonds?",
+                                "Answer": "<p>A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables.In case of a bankruptcy event, bond holders will depend on this security pool to get their investment back in the liquidation proceedings.</p>"
+                            },
+                            {
+                                "id": 41,
+                                "Heading": "What is SGB?",
+                                "Answer": "<p>A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables.In case of a bankruptcy event, bond holders will depend on this security pool to get their investment back in the liquidation proceedings.</p>"
+                            }
+                        ]
+                    }
+                ],
+                "Visualise_cashflow": {
+                    "data": {
+                        "id": 84,
+                        "attributes": {
+                            "url": "https://d3sqxton14esnq.cloudfront.net/images/stashfin_aec5c3c975.jpeg",
+                            "updatedAt": "2022-12-19T11:38:14.593Z"
+                        }
+                    }
+                },
+                "alm_nbfc_detail": {
+                    "data": {
+                        "id": 3,
+                        "attributes": {
+                            "Name_of_the_NBFC": "InCred Finance Limited",
+                            "updatedAt": "2022-12-28T13:01:13.135Z",
+                            "NBFC_Overview": "<p>InCred Financial Services Limited is registered with the RBI as a non-deposit accepting, systemically important NBFC. The Company is a new-age financial services platform that leverages technology and data-science to make lending quick and easy and is engaged in granting loans in the nature of Personal Loans, Education Loans and SME Business Loans.</p>",
+                            "Website_Link": "https://www.incred.com/img/logo.png",
+                            "Rating": "<p><a href=\"https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/IncredFinancialServicesLimited_November%2025,%202022_RR_303914.html\">CRISIL A+</a></p>",
+                            "json": null,
+                            "NBFC_Logo": {
+                                "data": {
+                                    "id": 84,
+                                    "attributes": {
+                                        "url": "https://d3sqxton14esnq.cloudfront.net/images/stashfin_aec5c3c975.jpeg",
+                                        "updatedAt": "2022-12-19T11:38:14.593Z"
+                                    }
+                                }
+                            },
+                            "NBFC_Financials": [
+                                {
+                                    "id": 9,
+                                    "Banner": "PAT has increased by 30% in the last two quarters.",
+                                    "Attribute_Description": "Net worth means net worth of the company",
+                                    "Prefix": null,
+                                    "Suffix": null,
+                                    "Financial": "PAT",
+                                    "Values": [
+                                        {
+                                            "id": 11,
+                                            "Date": "2022",
+                                            "Value": 4782
+                                        },
+                                        {
+                                            "id": 12,
+                                            "Date": "2023",
+                                            "Value": 3657
+                                        },
+                                        {
+                                            "id": 13,
+                                            "Date": "2024",
+                                            "Value": 6292
+                                        },
+                                        {
+                                            "id": 14,
+                                            "Date": "2025",
+                                            "Value": 4723
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 10,
+                                    "Banner": "abcd",
+                                    "Attribute_Description": "AUM is the AUM of the company.",
+                                    "Prefix": null,
+                                    "Suffix": null,
+                                    "Financial": "AUM",
+                                    "Values": [
+                                        {
+                                            "id": 15,
+                                            "Date": "2022",
+                                            "Value": 4272
+                                        },
+                                        {
+                                            "id": 19,
+                                            "Date": "2023",
+                                            "Value": 2794
+                                        },
+                                        {
+                                            "id": 20,
+                                            "Date": "2024",
+                                            "Value": 3456
+                                        },
+                                        {
+                                            "id": 17,
+                                            "Date": "2025",
+                                            "Value": 4767
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 11,
+                                    "Banner": "PAT has increased nicely",
+                                    "Attribute_Description": "PAT is the PAT of the company",
+                                    "Prefix": null,
+                                    "Suffix": null,
+                                    "Financial": "Net worth",
+                                    "Values": [
+                                        {
+                                            "id": 16,
+                                            "Date": "2022",
+                                            "Value": 234
+                                        },
+                                        {
+                                            "id": 18,
+                                            "Date": "2023",
+                                            "Value": 345
+                                        },
+                                        {
+                                            "id": 21,
+                                            "Date": "2024",
+                                            "Value": 456
+                                        },
+                                        {
+                                            "id": 22,
+                                            "Date": "2025",
+                                            "Value": 567
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8,
+                                    "Banner": null,
+                                    "Attribute_Description": null,
+                                    "Prefix": null,
+                                    "Suffix": null,
+                                    "Financial": "GNPA",
+                                    "Values": [
+                                        {
+                                            "id": 27,
+                                            "Date": "2022",
+                                            "Value": 3.2
+                                        },
+                                        {
+                                            "id": 29,
+                                            "Date": "2023",
+                                            "Value": 2.8
+                                        },
+                                        {
+                                            "id": 28,
+                                            "Date": "2024",
+                                            "Value": 3
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 12,
+                                    "Banner": null,
+                                    "Attribute_Description": "Nothing :)",
+                                    "Prefix": null,
+                                    "Suffix": null,
+                                    "Financial": "CRAR",
+                                    "Values": [
+                                        {
+                                            "id": 25,
+                                            "Date": "2022",
+                                            "Value": 67
+                                        },
+                                        {
+                                            "id": 26,
+                                            "Date": "2023",
+                                            "Value": 56
+                                        },
+                                        {
+                                            "id": 23,
+                                            "Date": "2024",
+                                            "Value": 34
+                                        },
+                                        {
+                                            "id": 24,
+                                            "Date": "2025",
+                                            "Value": 22
+                                        }
+                                    ]
+                                }
+                            ],
+                            "Institutional_Investors": [
+                                {
+                                    "id": 5,
+                                    "Marquee_or_Institutional": "Marquee Investors",
+                                    "Name_Logo": [
+                                        {
+                                            "id": 3,
+                                            "Name": "Apoorv",
+                                            "Logo": {
+                                                "data": [
+                                                    {
+                                                        "id": 84,
+                                                        "attributes": {
+                                                            "url": "https://d3sqxton14esnq.cloudfront.net/images/stashfin_aec5c3c975.jpeg",
+                                                            "updatedAt": "2022-12-19T11:38:14.593Z"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": 4,
+                                            "Name": "Test",
+                                            "Logo": {
+                                                "data": [
+                                                    {
+                                                        "id": 84,
+                                                        "attributes": {
+                                                            "url": "https://d3sqxton14esnq.cloudfront.net/images/stashfin_aec5c3c975.jpeg",
+                                                            "updatedAt": "2022-12-19T11:38:14.593Z"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": 5,
+                                            "Name": "Test2",
+                                            "Logo": {
+                                                "data": [
+                                                    {
+                                                        "id": 84,
+                                                        "attributes": {
+                                                            "url": "https://d3sqxton14esnq.cloudfront.net/images/stashfin_aec5c3c975.jpeg",
+                                                            "updatedAt": "2022-12-19T11:38:14.593Z"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": 6,
+                                            "Name": "Test3",
+                                            "Logo": {
+                                                "data": [
+                                                    {
+                                                        "id": 84,
+                                                        "attributes": {
+                                                            "url": "https://d3sqxton14esnq.cloudfront.net/images/stashfin_aec5c3c975.jpeg",
+                                                            "updatedAt": "2022-12-19T11:38:14.593Z"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 6,
+                                    "Marquee_or_Institutional": "Institutional Debt Investors",
+                                    "Name_Logo": [
+                                        {
+                                            "id": 7,
+                                            "Name": "Testing",
+                                            "Logo": {
+                                                "data": [
+                                                    {
+                                                        "id": 84,
+                                                        "attributes": {
+                                                            "url": "https://d3sqxton14esnq.cloudfront.net/images/stashfin_aec5c3c975.jpeg",
+                                                            "updatedAt": "2022-12-19T11:38:14.593Z"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": 8,
+                                            "Name": "Testing1",
+                                            "Logo": {
+                                                "data": [
+                                                    {
+                                                        "id": 84,
+                                                        "attributes": {
+                                                            "url": "https://d3sqxton14esnq.cloudfront.net/images/stashfin_aec5c3c975.jpeg",
+                                                            "updatedAt": "2022-12-19T11:38:14.593Z"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": 9,
+                                            "Name": "Testing2",
+                                            "Logo": {
+                                                "data": [
+                                                    {
+                                                        "id": 84,
+                                                        "attributes": {
+                                                            "url": "https://d3sqxton14esnq.cloudfront.net/images/stashfin_aec5c3c975.jpeg",
+                                                            "updatedAt": "2022-12-19T11:38:14.593Z"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "NBFC_KPIs": [],
+                            "In_the_news": [],
+                            "NBFC_Details": [
+                                {
+                                    "id": 1,
+                                    "Name": "Sector",
+                                    "Text": "Home Loans",
+                                    "Link": null,
+                                    "Modal_Question": "What are home loans",
+                                    "Modal_Answer": "<p><span style=\"background-color:rgb(255,255,255);color:rgba(0,0,0,0.65);font-family:&quot;Inter Regular&quot;;\">Incred Jan'22 - Series 1 was issued in Feb 2022, with a tenure of 1-year. The asset matures on 19th February 2023 i.e, in ~2 months. Upon the request of many of our investors to bring shorter tenure bonds, we have explored the market and engaged with</span></p>"
+                                },
+                                {
+                                    "id": 3,
+                                    "Name": "Rating",
+                                    "Text": "CRISIL BBB",
+                                    "Link": null,
+                                    "Modal_Question": "What is rating?",
+                                    "Modal_Answer": "<p><span style=\"background-color:rgb(255,255,255);color:rgba(0,0,0,0.65);font-family:&quot;Inter Regular&quot;;\">Incred Jan'22 - Series 1 was issued in Feb 2022, with a tenure of 1-year. The asset matures on 19th February 2023 i.e, in ~2 months. Upon the request of many of our investors to bring shorter tenure bonds, we have explored the market and engaged with</span></p>"
+                                }
+                            ],
+                            "More_Details": [
+                                {
+                                    "id": 6,
+                                    "Heading": "Key Points",
+                                    "Name_Details": [
+                                        {
+                                            "id": 50,
+                                            "Heading": "Introduction",
+                                            "Answer": "<p>A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables. In case of a bankruptcy event, bond holders will depend on this security pool to get their investment back in the liquidation proceedings.</p>"
+                                        },
+                                        {
+                                            "id": 51,
+                                            "Heading": "Marquee Investors",
+                                            "Answer": "<p>KKR | Elevation Capital | KKR | Elevation Capital |KKR | Elevation Capital |KKR | Elevation Capital |KKR | Elevation Capital |</p>"
+                                        },
+                                        {
+                                            "id": 52,
+                                            "Heading": "Institutional Investors",
+                                            "Answer": "<p>KKR | Elevation Capital | KKR | Elevation Capital |KKR | Elevation Capital |KKR | Elevation Capital |KKR | Elevation Capital</p>"
+                                        },
+                                        {
+                                            "id": 53,
+                                            "Heading": "Profitability",
+                                            "Answer": "<p>A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables.</p>"
+                                        },
+                                        {
+                                            "id": 54,
+                                            "Heading": "Capital Infusion",
+                                            "Answer": "<p>A senior secured bond is a bond that is backed by a security pool like a pool of gold loans, vehicle loans, property loans, Consumer Loans, Agricultural loans or Card receivables.</p>"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "alm_asset_control_1": {
+                    "data": {
+                        "id": 1,
+                        "attributes": {
+                            "productId": "10005",
+                            "Asset_Status": "Live",
+                            "Asset_Category": "Senior Secured Bonds",
+                            "Early_Access": null,
+                            "Live_for_all": null,
+                            "updatedAt": "2022-12-24T06:58:09.697Z",
+                            "couponRate": null,
+                            "currentPrice": null,
+                            "earlyAccessDate": null,
+                            "interestRate": null,
+                            "interestRepayment": null,
+                            "isin": null,
+                            "issueDate": null,
+                            "issuePrice": null,
+                            "listingType": null,
+                            "liveDate": null,
+                            "maturityDate": null,
+                            "maturityPeriod": null,
+                            "minimumHoldingPeriod": null,
+                            "percentSubscribed": null,
+                            "principalRepayment": null,
+                            "productLogoLink": null,
+                            "productName": null,
+                            "productType": null,
+                            "scripCode": null,
+                            "securityNature": null,
+                            "status": null,
+                            "json": null
+                        }
+                    }
+                },
+                "Risk_Modal": [
+                    {
+                        "id": 1,
+                        "Text": "Important things to note",
+                        "Paragraph": "<p><span style=\"font-family:&quot;Inter Bold&quot;;\"><strong>Diversification</strong></span> is the key to having a successful investment portfolio.</p><p>Rather than investing a huge amount in a single asset, we suggest you invest &lt;3% of your total investment portfolio in a single asset.</p><p>That way, you may diversify across 5+ assets at least with your total Wint investment just being ~15% of your entire portfolio.</p><p>The above allocation is our recommendation considering the risks of this investment but it should<span style=\"font-family:&quot;Inter Bold&quot;;\"> not</span> be taken as financial advice. We recommend you speak with your registered financial advisor or do your own analysis to find the right percentage allocation for this investment.</p>",
+                        "Small_Text": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "Text": "Important things to note",
+                        "Paragraph": "<p><span style=\"background-color:rgb(255,255,255);color:rgba(0,0,0,0.65);font-family:&quot;Inter Regular&quot;;\">Bonds are </span><span style=\"background-color:rgb(255,255,255);color:rgba(0,0,0,0.65);font-family:&quot;Inter Bold&quot;;\"><strong>not a replacement</strong></span><span style=\"background-color:rgb(255,255,255);color:rgba(0,0,0,0.65);font-family:&quot;Inter Regular&quot;;\"><strong> to your FDs</strong> or Debt mutual funds. FDs, Debt Mutual Funds, Bonds have different risk-return profiles. Plan your investments accordingly.</span></p>",
+                        "Small_Text": null,
+                        "File": {
+                            "data": {
+                                "id": 84,
+                                "attributes": {
+                                    "url": "https://d3sqxton14esnq.cloudfront.net/images/stashfin_aec5c3c975.jpeg",
+                                    "updatedAt": "2022-12-19T11:38:14.593Z"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "Text": "Important things to note",
+                        "Paragraph": "<p>There are 3 major risks which you should consider while investing in Senior Secured Bonds:</p><ul><li><span style=\"font-family:&quot;Inter Bold&quot;;\">Credit Risk:</span> The repayments are subject to credit risk of issuing NBFC and/or credit risk of the underlying asset pool. There is always a slight possibility of any NBFC going bankrupt. We have mentioned in the Risks section how we try to mitigate this.</li><li><span style=\"font-family:&quot;Inter Bold&quot;;\">Fraud Risk:</span> There is a possibility that data shared by the NBFC about borrowers and collateral may be fake. In such a scenario legal action would be taken against the NBFC. Wint Wealth further tries to mitigate this risk by reconciling such data via third party sources if available.</li><li><span style=\"font-family:&quot;Inter Bold&quot;;\">Liquidity Risk:</span> Consider the assets on the platform as illiquid with lock-in period till maturity. Wint Wealth has not promised to process any withdrawal requests. So only invest that amount which you are comfortable with keeping invested till the asset maturity date.</li></ul>",
+                        "Small_Text": "Revisit Investment Details",
+                        "File": {
+                            "data": null
+                        }
+                    }
+                ],
+                "Bond_Details": [
+                    {
+                        "id": 6,
+                        "Name": "XIRR",
+                        "Text": "10.5% XIRR",
+                        "Link": null,
+                        "Modal_Question": null,
+                        "Modal_Answer": null,
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 1,
+                        "Name": "Interest Payout",
+                        "Text": "Annually",
+                        "Link": null,
+                        "Modal_Question": null,
+                        "Modal_Answer": null,
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "Name": "Principal Repayment",
+                        "Text": "Annually",
+                        "Link": null,
+                        "Modal_Question": null,
+                        "Modal_Answer": null,
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "Name": "Minimum Investment",
+                        "Text": "Rs. 10,000",
+                        "Link": null,
+                        "Modal_Question": null,
+                        "Modal_Answer": null,
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "Name": "Collateral Type",
+                        "Text": "Gold Loans",
+                        "Link": null,
+                        "Modal_Question": "Question",
+                        "Modal_Answer": "<p>A big answer</p>",
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "Name": "ISIN Number",
+                        "Text": "INE3849382AJ",
+                        "Link": null,
+                        "Modal_Question": null,
+                        "Modal_Answer": null,
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "Name": "Mode of Issue",
+                        "Text": "Private Placement",
+                        "Link": null,
+                        "Modal_Question": null,
+                        "Modal_Answer": null,
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "Name": "Maturity Date",
+                        "Text": "20th Jan 2023",
+                        "Link": null,
+                        "Modal_Question": null,
+                        "Modal_Answer": null,
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "Name": "Coupon Rate",
+                        "Text": "10.03%",
+                        "Link": null,
+                        "Modal_Question": null,
+                        "Modal_Answer": null,
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 13,
+                        "Name": "Coupon Type",
+                        "Text": "Fixed",
+                        "Link": null,
+                        "Modal_Question": null,
+                        "Modal_Answer": null,
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 14,
+                        "Name": "Webinar Link",
+                        "Text": "Register Here",
+                        "Link": "webtest.wintwealth.com",
+                        "Modal_Question": null,
+                        "Modal_Answer": null,
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    },
+                    {
+                        "id": 15,
+                        "Name": "Tenure of the Bond",
+                        "Text": "2 years",
+                        "Link": null,
+                        "Modal_Question": null,
+                        "Modal_Answer": null,
+                        "Visible_On_Top": null,
+                        "File": {
+                            "data": null
+                        }
+                    }
+                ],
+                "Background_Image": {
+                    "data": {
+                        "id": 88,
+                        "attributes": {
+                            "url": "https://d3sqxton14esnq.cloudfront.net/images/Group_862_09d07e82c0.png",
+                            "updatedAt": "2022-12-28T05:21:44.823Z"
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 1
+        }
+    }
+}
